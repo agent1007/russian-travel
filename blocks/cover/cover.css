@@ -4,12 +4,12 @@
 
 
 .cover {
-    margin: 92px auto ;
+    margin: 92px auto;
 }
 
 @media screen and (max-width: 767px) {
   
     .cover {
-        margin: 72px auto ;
+        margin: 72px auto;
     }
 }
