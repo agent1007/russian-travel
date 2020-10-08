@@ -20,7 +20,7 @@
   .place {
     max-width: 928px;
     gap: 48px 32px;
-    margin-bottom: 77px;
+    margin-bottom: 80px;
   }
 }
 
@@ -28,7 +28,7 @@
   
   .place {
     max-width: 720px;
-    margin-bottom: 78px;
+    margin-bottom: 82px;
     margin-top: 0;
     gap: 48px 28px;
   }

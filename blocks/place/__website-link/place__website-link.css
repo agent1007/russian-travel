@@ -1,8 +1,5 @@
 .place__website-link {
-    width: 456px;
     margin-bottom: 0;
-    font-family: Inter;
-    font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 1.22;
@@ -13,11 +10,4 @@
 .place__website-link:hover {
     opacity: 0.8;
     transition: 0.2s linear;
-}
-
-@media screen and (max-width: 1023px) {
-  
-    .place__website-link {
-      width: 352px;
-    }
 }

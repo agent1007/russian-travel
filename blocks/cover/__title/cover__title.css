@@ -2,9 +2,7 @@
   position: relative;
   margin-top: 245px;
   margin-bottom: 32px;
-  width: 560px;
-  font-family: Inter;
-  font-style: normal;
+  max-width: 560px;
   font-weight: 900;
   font-size: 72px;
   line-height: 1.06;
@@ -32,7 +30,7 @@
   .cover__title {
     margin-top: 33px;
     margin-bottom: 16px;
-    width: 288px;
+    max-width: 288px;
     font-size: 32px;
     line-height: 1.09;
   }
