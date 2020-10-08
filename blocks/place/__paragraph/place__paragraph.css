@@ -1,14 +1,14 @@
 .place__paragraph {
-  max-width: 484px;
-  margin-top: 48px;
+  margin-top: 0;
   margin-bottom: 0;
-  padding: 0;
+  max-width: 484px;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 1.63;
   color: #FFFFFF;
+
 }
   
 .place__paragraph:nth-of-type(2) {
@@ -26,7 +26,6 @@
   
   .place__paragraph {
     max-width: 352px;
-    margin-top: 48px;
     font-size: 16px;
   }
 }
@@ -35,7 +34,7 @@
     
   .place__paragraph {
     max-width: 288px;
-    margin: 32px 17px 0;
+    margin: 32px 16px 0;
     font-size: 16px;
     line-height: 1.63;
   }
